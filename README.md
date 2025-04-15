@@ -4,7 +4,7 @@
 
                                                                                   
 
-Hey there! Meet **Hecker**, my take on a seriously cool firmware for the ESP32 WROOM, with a nod to that sly "Hecker" cat meme. I built this to dig deep into WiFi and Bluetooth Low Energy (BLE) stuff, packing in a bunch of tools for poking around networks and devices. You can control it all through a sharp web interface with a cat vibe or, if you’re feeling fancy, an optional OLED screen.
+Hey there! Meet **Hecker**, an under development frimware for the ESP32 WROOM, with a nod to that sly "Hecker" cat meme. I built this to dig deep into WiFi and Bluetooth Low Energy (BLE) stuff, packing in a bunch of tools for poking around networks and devices. You can control it all through a sharp web interface with a cat vibe or, if you’re feeling fancy, an optional OLED screen.
 
 ## Features
 
