@@ -1,4 +1,4 @@
-# ![hecker](https://github.com/user-attachments/assets/a9919445-ef0e-4691-8d77-8e351f288909)
+# https://tenor.com/view/nesmog_floppa-gif-21821732
 
 ## Welcome to **Hecker** 😼💻
 
