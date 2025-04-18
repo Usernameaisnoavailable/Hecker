@@ -4,9 +4,6 @@
 
 Dive into the world of WiFi and BLE pentesting with **Hecker**, a firmware for the ESP32 WROOM, inspired by the sly "Hecker" cat meme. This tool is designed for those who want to explore the hidden layers of networks and devices with a touch of mischief and a hacker-themed vibe. 🐾
 
----
-![nesmog_floppa](https://github.com/user-attachments/assets/f8cd3f98-7820-4866-88b5-ab09a778b0ac)
-
 ## Features: Unleash Your Inner Hecker 🕵️‍♂️
 
 ### WiFi Arsenal:
