@@ -1,10 +1,11 @@
-# https://tenor.com/view/nesmog_floppa-gif-21821732
+# ![nesmog_floppa](https://github.com/user-attachments/assets/1c5f7c41-1108-4dbe-9c84-00c05a1b2931)
 
 ## Welcome to **Hecker** 😼💻
 
 Dive into the world of WiFi and BLE pentesting with **Hecker**, a firmware for the ESP32 WROOM, inspired by the sly "Hecker" cat meme. This tool is designed for those who want to explore the hidden layers of networks and devices with a touch of mischief and a hacker-themed vibe. 🐾
 
 ---
+![nesmog_floppa](https://github.com/user-attachments/assets/f8cd3f98-7820-4866-88b5-ab09a778b0ac)
 
 ## Features: Unleash Your Inner Hecker 🕵️‍♂️
 
